@@ -1,0 +1,7 @@
+#pragma once
+
+#include <stack>
+#include <math.h>
+#include <stdexcept>
+#include "IGraph.h"
+#include "States.h"

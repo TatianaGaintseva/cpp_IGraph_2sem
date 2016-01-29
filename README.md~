@@ -36,4 +36,4 @@ To store a particular graph as IGraph, list of its edges and total amount of ver
 TESTS
 --------------------------
 
-Tests files for all the functions realized are provided in folders TestsIGraph and TestsAlgorithms. To help testing there are stupid (naive) algorithms provided in folder StupidAlgorithms. Also algorithms that generate random graphs and CNFs for testing are provided in folder Generators. There are algorithms that can generate either small or big instances of graphs as it's needed. It is needed to put testing files into project root directory or to link them in order to begin testing.
+Tests files for all the functions realized are provided in folders TestsIGraph and TestsAlgorithms. Also algorithms that generate random graphs and CNFs for testing are provided in folder Generators. There are algorithms that can generate either small or big instances of graphs as it's needed. It is needed to put testing files into project root directory or to link them in order to begin testing.

@@ -1,0 +1,15 @@
+//#include "TestsIGraph.h"
+//#include "TestsAlgo.h"
+//#include "TesterDFS.h"
+
+using namespace std;
+
+int main() {
+
+	//PrintHello();
+	//TestIGraph();
+	TestAlgo();
+	return 0;
+}
+
+
